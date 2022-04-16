@@ -3,12 +3,7 @@ colors:
   primary:
     background: '#0f0f17'
     foreground: '#bfc9db'
-
-  # Colors the cursor will use if `custom_cursor_colors` is true
-  cursor:
-    text: '0x1E1D2F'
-    cursor: '0xF5E0DC'
-
+    
   # Normal colors
   normal:
     black:   '#1a1826'
@@ -32,5 +27,5 @@ colors:
     white:   '#d2d3c9'
 
   indexed_colors:
-    - { index: 16, color: '0xF8BD96' }
-    - { index: 17, color: '0xF5E0DC' }
+    - { index: 16, color: '#e0b089' }
+    - { index: 17, color: '#bfc9db' }
