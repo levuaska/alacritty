@@ -3,15 +3,15 @@
     <h1>Levuaska for Alacritty</h1>
     <img src="assets/example.png"/>
     <p></p>
-    <a href="https://github.com/levuaska/template/stargazers">
+    <a href="https://github.com/levuaska/alacritty/stargazers">
         <img src="https://img.shields.io/github/stars/levuaska/template?colorA=0f0f17&colorB=%23afbea2&style=for-the-badge">
     </a>
-    <a href="https://github.com/levuaska/template/network/members/">
+    <a href="https://github.com/levuaska/alacritty/network/members/">
         <img src="https://badges.pufler.dev/updated/levuaska/template?style=for-the-badge&color=e4c9af&logoColor=white&labelColor=0f0f17">
     <a href="https://github.com/levuaska/template">
     	<img src="https://img.shields.io/github/repo-size/levuaska/template?colorA=0f0f17&colorB=%23b5e8e0&label=size&style=for-the-badge">
     </a>
-    <a href="https://github.com/levuaska/template/blob/main/LICENSE">
+    <a href="https://github.com/levuaska/alacritty/blob/main/LICENSE">
     	<img src="https://img.shields.io/github/license/levuaska/template?colorA=0f0f17&colorB=%23d78787&style=for-the-badge&logoColor=white">
     </a>
 </div>
