@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/levuaska.png" height="200" alt="header"/>
-    <h1>Levuaska for App</h1>
+    <h1>Levuaska for Alacritty</h1>
     <p></p>
     <a href="https://github.com/levuaska/template/stargazers">
         <img src="https://img.shields.io/github/stars/levuaska/template?colorA=0f0f17&colorB=%23afbea2&style=for-the-badge">
