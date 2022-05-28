@@ -17,13 +17,13 @@
 </div>
 <hr>
 
-<h2>Installation</h2>
+<h2>🔎 Installation</h2>
   
 - Clone this repository
 - Open alacritty settings
 - Add the contents of colors.yml to your alacritty settings
   
-<h2>Thanks<h2>
+<h2>💜 Thanks<h2>
 
 - [okklol](https://github.com/okklol)
 
